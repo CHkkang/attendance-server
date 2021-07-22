@@ -1,0 +1,9 @@
+mysql:
+  host: "localhost"
+  user: "root"
+  port: 3306
+  password: ""
+  database: ""
+server:
+  host: "localhost"
+  port: 5000
