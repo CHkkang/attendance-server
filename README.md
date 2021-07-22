@@ -1,4 +1,5 @@
-# 근태관리시스템
+# Attendance Server
+> ``근태관리 시스템`` / Attendance Server 프로젝트 입니다.
 
 ## 개발환경
 * Golang 1.16.5
