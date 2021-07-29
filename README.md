@@ -1,6 +1,9 @@
 # Attendance Server
 > ``근태관리시스템`` / Attendance Server 프로젝트 입니다.
 
+## 참여 개발자
+> 강찬혁, 정지성
+
 ## 개발환경
 * Golang 1.16.5
     * echo framework ("https://github.com/labstack/echo")
